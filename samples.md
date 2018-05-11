@@ -36,7 +36,7 @@ h3 {
 
 <h5>Gamification</h5>
 
-<a href="http://www.firefalltechnology.com/samples/VSP-HCI-Applying/story_html5.html" target="_blank">Hyper-Converged Infrastructure Sales Training</a>
+<a href="http://www.firefalltechnology.com/samples/VSP-HCI-Applying/story_html5.html" target="_blank">Hyper-Converged Infrastructure Selling Activity</a>
 
 <h5>ILT/vILT</h5>
 
@@ -55,7 +55,7 @@ h3 {
 
 <h5>Whiteboard</h5>
 
-<a href="http://www.firefalltechnology.com/samples/VIO-Container/story_html5.html" target="_blank">Hyper-Converged Infrastructure Sales Training</a>
+<a href="http://www.firefalltechnology.com/samples/VIO-Container/story_html5.html" target="_blank">Container Management: What is Kubernetes?</a>
 
 <h5>Video</h5>
 
