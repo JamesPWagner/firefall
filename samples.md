@@ -47,11 +47,11 @@ h3 {
 
 <h5>Tutorial</h5>
 
-<a href="http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/sscs/CreateStorageContainer/SOACS_prereq_storageContainers.html#section1s1">Oracle Creating Storage Containers for Backups Tutorial</a>
+<a href="http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/sscs/CreateStorageContainer/SOACS_prereq_storageContainers.html#section1s1"  target="_blank">Oracle Creating Storage Containers for Backups Tutorial</a>
 
 <h5>Interactive Infographic</h5>
 
-<a href="http://www.oracle.com/webfolder/technetwork/tutorials/obe/fmw/wls/12c/12c_poster/poster.html#tab_1">Oracle Web Logic 12c Interactive Infographic</a>
+<a href="http://www.oracle.com/webfolder/technetwork/tutorials/obe/fmw/wls/12c/12c_poster/poster.html#tab_1" target="_blank">Oracle Web Logic 12c Interactive Infographic</a>
 
 <h5>Whiteboard</h5>
 
