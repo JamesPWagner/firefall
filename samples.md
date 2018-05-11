@@ -58,3 +58,16 @@ h3 {
 <a href="http://www.firefalltechnology.com/samples/VIO-Container/story_html5.html" target="_blank">Hyper-Converged Infrastructure Sales Training</a>
 
 <h5>Video</h5>
+
+<a href="https://youtu.be/vjlrVkKVU2s" target="_blank">Hybrid Cloud Integration With ICS Overview</a><br>
+<a href="https://youtu.be/nsbvR027GXY" target="_blank">Installing and Using Agents for SaaS and On-Premises Integration</a><br>
+<a href="https://www.youtube.com/watch?v=NyUR9BUv1Bs" target="_blank">Full-Text Search HA for Server Groups - BMC Remedy AR System</a><br>
+<a href="https://www.youtube.com/watch?v=E4v0X2SimKY" target="_blank">Introduction to the Association Server Object - BMC Remedy AR System</a><br>
+
+<h5>Technical Documentation</h5>
+
+<a href="https://docs.bmc.com/docs/display/public/ars9000/Enabling+FTS+high+availability" target="_blank">Enabling FTS High Availability - BMC Remedy AR System</a><br> 
+<a href="https://docs.bmc.com/docs/display/smartIT13/Creating+and+managing+problem+investigations+in+Smart+IT" target="_blank">Creating and Managing Investigations in Smart IT</a><br> 
+<a href="https://docs.bmc.com/docs/display/public/ars9000/WhiteHat+Sentinel+PE+security+penetration+testing" target="_blank">Whitehat Sentinel PE Security Testing</a><br> 
+<a href="https://docs.bmc.com/docs/display/itsm81/Loading+Foundation+data+for+multiple+companies" target="_blank">Onboarding Foundation Data for Multiple Companies</a>
+
