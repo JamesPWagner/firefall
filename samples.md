@@ -24,11 +24,15 @@ h3 {
 
 <h5>eLearning</h5>
 
+<a href="http://www.firefalltechnology.com/samples/VIO/story_html5.html" target="_blank">VMware Integrated OpenStack</a>
+
 <h5>Microlearning</h5>
 
-<h5>Gamification</h5>
+<p>Link to Moodle vSAN Module 2</p>
 
 <h5>Content Conversion</h5>
+
+<h5>Gamification</h5>
 
 <h5>ILT/vILT</h5>
 
