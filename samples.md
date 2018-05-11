@@ -24,20 +24,20 @@ h3 {
 
 Representative samples from VMware, Hewlett-Packard, Forgerock, and BMC Software.
 
-## eLearning
+<h5>eLearning</h5>
 
-## Microlearning
+<h5>Microlearning</h5>
 
-## Gamification
+<h5>Gamification</h5>
 
-## Content Conversion
+<h5>Content Conversion</h5>
 
-## ILT/vILT
+<h5>ILT/vILT</h5>
 
-## Tutorial
+<h5>Tutorial</h5>
 
-## Interactive Infographic
+<h5>Interactive Infographic</h5>
 
-## Whiteboard
+<h5>Whiteboard</h5>
 
-## Video
+<h5>Video</h5>
