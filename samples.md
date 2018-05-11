@@ -32,7 +32,7 @@ Representative samples from VMware, Hewlett-Packard, Forgerock, and BMC Software
 <td><h3>eLearning</h3>
 <a href="https://jamespwagner.github.io/OpenStack/story_html5.html" target="_blank">VMware Integrated OpenStack Fundamentals</a><br> 
 <a href="https://jamespwagner.github.io/Cloud_Provider/story_html5.html" target="_blank">Cloud Provider for Sales Professionals</a><br> 
-<h4>Hyper-Converged Infrastructure Solutions Sales Training</h4>
+<h5>Hyper-Converged Infrastructure Solutions Sales Training</h5>
 <ul>
 <li><a href="https://jamespwagner.github.io/HCI_Solution_Overview/story_html5.html" target="_blank">HCI Solution Overview</a></li>
 <li><a href="https://jamespwagner.github.io/HCI_Applying_Exercise/story_html5.html" target="_blank">HCI Applying Solutions Exercise</a></li>
