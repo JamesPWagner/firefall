@@ -34,8 +34,9 @@ h3 {
 
 <a href="http://www.firefalltechnology.com/samples/VSP-HCI/story_html5.html" target="_blank">Hyper-Converged Infrastructure Sales Training</a>
 
-
 <h5>Gamification</h5>
+
+<a href="http://www.firefalltechnology.com/samples/VSP-HCI-Applying/story_html5.html" target="_blank">Hyper-Converged Infrastructure Sales Training</a>
 
 <h5>ILT/vILT</h5>
 
@@ -44,5 +45,7 @@ h3 {
 <h5>Interactive Infographic</h5>
 
 <h5>Whiteboard</h5>
+
+<a href="http://www.firefalltechnology.com/samples/VIO-Container/story_html5.html" target="_blank">Hyper-Converged Infrastructure Sales Training</a>
 
 <h5>Video</h5>
