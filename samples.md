@@ -40,6 +40,10 @@ h3 {
 
 <h5>ILT/vILT</h5>
 
+<ul>
+<li><a href="http://www.firefalltechnology.com/samples/ILT/hp.pdf" target="_blank">HP Operations Orchestration Advanced Authoring Student Guide</a>
+<li><a href="http://www.firefalltechnology.com/samples/ILT/oracle.pdf" target="_blank">Oracle Enterprise Gateway 11g: Security Management for SOA and Cloud Student Guide</a>
+
 <h5>Tutorial</h5>
 
 <h5>Interactive Infographic</h5>
