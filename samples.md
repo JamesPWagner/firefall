@@ -20,9 +20,7 @@ h3 {
 
 </style>
 
-# eLearning, Technical Documentation, and Video Samples
-
-Representative samples from VMware, Hewlett-Packard, Forgerock, and BMC Software.
+# Firefall Samples
 
 <h5>eLearning</h5>
 
