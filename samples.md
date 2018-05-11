@@ -32,6 +32,9 @@ h3 {
 
 <h5>Content Conversion</h5>
 
+<a href="http://www.firefalltechnology.com/samples/VSP-HCI/story_html5.html" target="_blank">Hyper-Converged Infrastructure Sales Training</a>
+
+
 <h5>Gamification</h5>
 
 <h5>ILT/vILT</h5>
