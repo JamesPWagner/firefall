@@ -41,12 +41,17 @@ h3 {
 <h5>ILT/vILT</h5>
 
 <ul>
-<li><a href="http://www.firefalltechnology.com/samples/ILT/hp.pdf" target="_blank">HP Operations Orchestration Advanced Authoring Student Guide</a>
-<li><a href="http://www.firefalltechnology.com/samples/ILT/oracle.pdf" target="_blank">Oracle Enterprise Gateway 11g: Security Management for SOA and Cloud Student Guide</a>
+<li><a href="http://www.firefalltechnology.com/samples/ILT/hp.html" target="_blank">HP Operations Orchestration Advanced Authoring Student Guide</a></li>
+<li><a href="http://www.firefalltechnology.com/samples/ILT/oracle.html" target="_blank">Oracle Enterprise Gateway 11g: Security Management for SOA and Cloud Student Guide</a></li>
+</ul>
 
 <h5>Tutorial</h5>
 
+<a href="http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/sscs/CreateStorageContainer/SOACS_prereq_storageContainers.html#section1s1">Oracle Creating Storage Containers for Backups Tutorial</a>
+
 <h5>Interactive Infographic</h5>
+
+<a href="http://www.oracle.com/webfolder/technetwork/tutorials/obe/fmw/wls/12c/12c_poster/poster.html#tab_1">Oracle Web Logic 12c Interactive Infographic</a>
 
 <h5>Whiteboard</h5>
 
