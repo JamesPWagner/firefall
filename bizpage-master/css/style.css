@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
 #header.header-scrolled {
   background: rgba(0, 0, 0, 0.9);
   padding: 20px 0;
-  height: 72px;
+  height: 200px;
   transition: all 0.5s;
 }
 
@@ -301,7 +301,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu ul li {
-  min-width: 360px;
+  min-width: 180px;
 }
 
 /* Nav Menu Arrows */
