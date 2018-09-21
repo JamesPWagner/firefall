@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
 #header.header-scrolled {
   background: rgba(0, 0, 0, 0.9);
   padding: 20px 0;
-  height: 115px; /*changed for Firefall.*/
+  height: 118px; /*changed for Firefall.*/
   transition: all 0.5s;
 }
 
