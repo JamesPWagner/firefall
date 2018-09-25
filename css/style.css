@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
 #header.header-scrolled {
   background: rgba(0, 0, 0, 0.9);
   padding: 20px 0;
-  height: 72px;
+  height: 118px; /*changed for Firefall.*/
   transition: all 0.5s;
 }
 
@@ -916,7 +916,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item figure:hover img {
   opacity: 0.4;
-  transition: 0.3s;
+  transition: 0.7s; /*Changed from 0.3*/
 }
 
 #portfolio .portfolio-item figure .link-preview, #portfolio .portfolio-item figure .link-details {
@@ -929,7 +929,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 36px;
   background: #fff;
   border-radius: 50%;
-  transition: 0.5s linear; /*Changed from 0.2s*/
+  transition: 0.2s linear;
 }
 
 #portfolio .portfolio-item figure .link-preview i, #portfolio .portfolio-item figure .link-details i {
