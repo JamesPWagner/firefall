@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
 #header.header-scrolled {
   background: rgba(0, 0, 0, 0.9);
   padding: 20px 0;
-  height: 72px;
+  height: 118px; /*changed for Firefall.*/
   transition: all 0.5s;
 }
 
@@ -916,20 +916,20 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item figure:hover img {
   opacity: 0.4;
-  transition: 0.3s;
+  transition: 0.7s; //changed from 0.3 for Firefall
 }
 
 #portfolio .portfolio-item figure .link-preview, #portfolio .portfolio-item figure .link-details {
   position: absolute;
   display: inline-block;
-  opacity: 0;
+  visibility: hidden;
   line-height: 1;
   text-align: center;
   width: 36px;
   height: 36px;
   background: #fff;
   border-radius: 50%;
-  transition: 0.5s linear; /*Changed from 0.2s*/
+  transition: 0.2s;
 }
 
 #portfolio .portfolio-item figure .link-preview i, #portfolio .portfolio-item figure .link-details i {
@@ -947,23 +947,23 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item figure .link-preview {
-  left: calc(50% - 38px); 
+  left: calc(50% - 38px);
   top: calc(50% - 18px);
 }
 
 #portfolio .portfolio-item figure .link-details {
-  right: calc(50% - 38px);
+  right: calc(50% - 38px); 
   top: calc(50% - 18px);
 }
 
 #portfolio .portfolio-item figure:hover .link-preview {
-  opacity: 1;
+  visibility: visible;
   left: calc(50% - 44px); 
 }
 
 #portfolio .portfolio-item figure:hover .link-details {
-  opacity: 1;
-  right: calc(50% - 24px); /*Changed from calc(50% - 44px) to center the icon;*/
+  visibility: visible;
+  right: calc(50% - 44px);
 }
 
 #portfolio .portfolio-item .portfolio-info {
@@ -976,8 +976,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item .portfolio-info h4 {
   font-size: 18px;
-  line-height: 24px; /* Changed from 1px */
-  font-weight: 700;
+  line-height: 24px; //Changed from 1 px
+  font-weight: 700; 
   margin-bottom: 18px;
   padding-bottom: 0;
 }
@@ -1127,7 +1127,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .member-info {
-  opacity: 0;
+  visibility: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1146,7 +1146,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #team .member:hover .member-info {
   background: rgba(0, 0, 0, 0.7);
-  opacity: 1;
+  visibility: visible;
   transition: 0.4s;
 }
 
