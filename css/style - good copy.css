@@ -969,6 +969,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio .portfolio-item .portfolio-info {
   background: #fff;
   text-align: center;
+  font-weight: 700;
   padding: 30px;
   height: 90px;
   border-radius: 0 0 3px 3px;
@@ -984,6 +985,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item .portfolio-info h4 a {
   color: #333;
+    font-weight: 700; 
 }
 
 #portfolio .portfolio-item .portfolio-info h4 a:hover {
@@ -1116,13 +1118,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #team {
   background: #fff;
-  padding: 60px 0;
+  padding: 50px 0;
 }
 
 #team .member {
+  height: 200px;
   text-align: center;
+  padding: 20px;
   margin-bottom: 20px;
-  background: #000;
+  background: #fff;
   position: relative;
 }
 
@@ -1158,17 +1162,56 @@ body.mobile-nav-active #mobile-nav-toggle {
 #team .member h4 {
   font-weight: 700;
   margin-bottom: 2px;
-  font-size: 18px;
-  color: #fff;
+  font-size: 24px;
+  color: #000;
+}
+
+#team .member p {
+	margin-top: 10px;
 }
 
 #team .member span {
   font-style: italic;
   display: block;
-  font-size: 13px;
-  color: #fff;
+  font-size: 18px;
+  color: #000;
 }
 
+
+#team .member .learn {
+  font-size: 24px;
+  display: inline-block;
+  background: #fff;
+  color: #18d26e;
+  line-height: 1;
+  padding: 2px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 28px;
+  height: 28px;
+  transition: 0.3s;
+}
+
+#team .member .learn:hover {
+	background: #18d26e;
+	color: #fff;
+}
+
+/*#team .member .learn:hover {
+	transition: none;
+	color: #18d26e;
+}*/
+
+/*#team .member .learn:hover {
+	transition: none;
+	color: #18d26e;
+	background: #fff;
+}*/
+
+
+
+/*
 #team .member .social {
   margin-top: 15px;
 }
@@ -1186,6 +1229,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 18px;
   margin: 0 2px;
 }
+*/
 
 /* Contact Section
 --------------------------------*/

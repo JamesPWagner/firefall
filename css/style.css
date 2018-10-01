@@ -660,6 +660,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: 0.3s;
 }
 
+/*
 #about .about-col:hover .icon {
   background-color: #fff;
 }
@@ -667,6 +668,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .about-col:hover i {
   color: #18d26e;
 }
+*/
 
 #about .about-col h2 {
   color: #000;
@@ -916,20 +918,20 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item figure:hover img {
   opacity: 0.4;
-  transition: 0.7s; /*Changed from 0.3*/
+  transition: 0.7s; /*Changed for Firefall*/
 }
 
 #portfolio .portfolio-item figure .link-preview, #portfolio .portfolio-item figure .link-details {
   position: absolute;
   display: inline-block;
-  opacity: 0;
+  visibility: hidden;
   line-height: 1;
   text-align: center;
   width: 36px;
   height: 36px;
   background: #fff;
   border-radius: 50%;
-  transition: 0.2s linear;
+  transition: 0.1s;
 }
 
 #portfolio .portfolio-item figure .link-preview i, #portfolio .portfolio-item figure .link-details i {
@@ -947,28 +949,29 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item figure .link-preview {
-  left: calc(50% - 38px); 
+  left: calc(50% - 38px);
   top: calc(50% - 18px);
 }
 
 #portfolio .portfolio-item figure .link-details {
-  right: calc(50% - 38px);
+  right: calc(50% - 38px); 
   top: calc(50% - 18px);
 }
 
 #portfolio .portfolio-item figure:hover .link-preview {
-  opacity: 1;
+  visibility: visible;
   left: calc(50% - 44px); 
 }
 
 #portfolio .portfolio-item figure:hover .link-details {
-  opacity: 1;
-  right: calc(50% - 24px); /*Changed from calc(50% - 44px) to center the icon;*/
+  visibility: visible;
+  right: calc(55% - 44px);
 }
 
 #portfolio .portfolio-item .portfolio-info {
   background: #fff;
   text-align: center;
+  font-weight: 700;
   padding: 30px;
   height: 90px;
   border-radius: 0 0 3px 3px;
@@ -976,14 +979,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item .portfolio-info h4 {
   font-size: 18px;
-  line-height: 24px; /* Changed from 1px */
-  font-weight: 700;
+  line-height: 24px; //Changed from 1 px
+  font-weight: 700; 
   margin-bottom: 18px;
   padding-bottom: 0;
 }
 
 #portfolio .portfolio-item .portfolio-info h4 a {
   color: #333;
+    font-weight: 700; 
 }
 
 #portfolio .portfolio-item .portfolio-info h4 a:hover {
@@ -1116,21 +1120,24 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #team {
   background: #fff;
-  padding: 60px 0;
+  padding: 50px 0;
 }
 
 #team .member {
+  height: 250px;
+  width: 250px;
   text-align: center;
-  margin-bottom: 20px;
-  background: #000;
+  /*padding: 20px;*/
+  margin-bottom: 0px;
+  background: #fff;
   position: relative;
+  background: grey;
 }
 
 #team .member .member-info {
-  opacity: 0;
-  display: flex;
+  /*visibility: visible;*/
   justify-content: center;
-  align-items: center;
+  /*padding-top: 30px;*/
   position: absolute;
   bottom: 0;
   top: 0;
@@ -1140,15 +1147,17 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .member-info-content {
-  margin-top: -50px;
-  transition: margin 0.2s;
+  /*margin-top: -50px;
+  transition: margin 0.2s;*/
 }
 
+/*
 #team .member:hover .member-info {
   background: rgba(0, 0, 0, 0.7);
-  opacity: 1;
+  visibility: visible;
   transition: 0.4s;
 }
+*/
 
 #team .member:hover .member-info-content {
   margin-top: 0;
@@ -1158,17 +1167,51 @@ body.mobile-nav-active #mobile-nav-toggle {
 #team .member h4 {
   font-weight: 700;
   margin-bottom: 2px;
-  font-size: 18px;
-  color: #fff;
+  font-size: 20px;
+  color: #000;
+}
+
+#team .member p {
+	margin-top: 10px;
 }
 
 #team .member span {
   font-style: italic;
   display: block;
-  font-size: 13px;
-  color: #fff;
+  font-size: 16px;
+  color: #000;
 }
 
+
+#team .member .learn {
+  font-size: 24px;
+  display: inline-block;
+  background: #fff;
+  color: #18d26e;
+  line-height: 1;
+  padding: 2px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 28px;
+  height: 28px;
+  transition: 0.3s;
+}
+
+#team .member .learn:hover {
+    transition: none;
+	background: #18d26e;
+	color: #fff;
+}
+
+#team .member .learn:hover {
+	transition: none;
+	color: #fff;
+	background: #18d26e;
+}
+
+
+/*
 #team .member .social {
   margin-top: 15px;
 }
@@ -1186,6 +1229,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 18px;
   margin: 0 2px;
 }
+*/
 
 /* Contact Section
 --------------------------------*/
