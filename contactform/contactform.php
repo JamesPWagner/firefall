@@ -7,22 +7,22 @@
 /***************** Configuration *****************/
 
 // Enter your email, where you want to receive the messages.
-$contact_email_to = "";
+$contact_email_to = "firefalltech@gmail.com";
 
 // Subject prefix
-$contact_subject_prefix = "Contat Form Message: ";
+$contact_subject_prefix = "Contact Form Message: ";
 
 // Name too short error text
-$contact_error_name = "Name is too short or empty!";
+$contact_error_name = "Name is too short or empty.";
 
 // Email invalid error text
-$contact_error_email = "Please enter a valid email!";
+$contact_error_email = "Please enter a valid email.";
 
 // Subject too short error text
 $contact_error_subject = "Subject is too short or empty!";
 
 // Message too short error text
-$contact_error_message = "Too short message! Please enter something.";
+$contact_error_message = "Your message is too short - please try again.";
 
 /********** Do not edit from the below line ***********/
 
